@@ -1,0 +1,1 @@
+alert tcp any any -> any any (msg:"RECONNAISSANCE - Nmap Port Scan Detected"; flags:S; threshold: type threshold, track by_src, count 5, seconds 2; sid:1000001; rev:1;)

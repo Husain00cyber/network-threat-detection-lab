@@ -1,0 +1,1 @@
+echo '{"timestamp":"2026-09-18T16:00:00.000000+0300","event_type":"alert","src_ip":"127.0.0.1","src_port":54321,"dest_ip":"127.0.0.1","dest_port":80,"proto":"TCP","alert":{"action":"allowed","gid":1,"signature_id":1000001,"rev":1,"signature":"RECONNAISSANCE - Nmap Port Scan Detected","category":"","severity":3}}' | sudo tee -a logs/suricata/eve.json
