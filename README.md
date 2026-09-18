@@ -1,6 +1,6 @@
-<img width="816" height="360" alt="Picture3" src="https://github.com/user-attachments/assets/8ecdfadd-2cc2-41df-a3a9-00b6b0d75381" />
-<img width="815" height="294" alt="Picture2" src="https://github.com/user-attachments/assets/5f018243-a725-4a36-bffb-33d6aacd8112" />
 <img width="814" height="107" alt="Picture1" src="https://github.com/user-attachments/assets/d3335939-2f00-4748-986d-9f96af729650" />
+<img width="815" height="294" alt="Picture2" src="https://github.com/user-attachments/assets/5f018243-a725-4a36-bffb-33d6aacd8112" />
+<img width="816" height="360" alt="Picture3" src="https://github.com/user-attachments/assets/8ecdfadd-2cc2-41df-a3a9-00b6b0d75381" />
 # Network Threat Detection Lab
 
 A containerized network intrusion detection system (IDS) and SIEM lab built on Windows WSL2 (Ubuntu). This project sets up Suricata to capture and log threat activity, indexing the logs through the ELK stack (Elasticsearch, Filebeat, and Kibana) for visualization.
